@@ -33,9 +33,6 @@ Instead of searching through 50+ pages of legal jargon, users can simply upload 
 - Python 3.10 or 3.11
 - A free API Key from [Groq Console](https://console.groq.com/)
 
-### Step 1: Clone the Repository
-git clone https://github.com/YOUR_USERNAME/insurance-policy-assistant.git
-cd insurance-policy-assistant
 
 python -m venv venv
 .\venv\Scripts\activate
